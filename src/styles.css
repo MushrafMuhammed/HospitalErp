@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+/* title of pages */
+.section-title {
+    margin-bottom: 70px;
+}
+
+.section-title h2 {
+    color: #223a66;
+}
+
+.divider {
+    width: 40px;
+    height: 5px;
+    background: #e12454;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

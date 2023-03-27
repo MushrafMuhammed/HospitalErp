@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #223a66;
+}
+.ul-nav {
+    display: flex;
+    color: #f1f1f1; 
+    list-style-type: none;
+    font-weight: bold;
+    padding-top: 18px;
+}
+
+li{
+   padding-right: 25px; 
+}
